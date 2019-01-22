@@ -1,8 +1,8 @@
 # Site settings
-title:
-email:
-author:
-description:
+title: 
+email: eberhard_frank@me.com
+author: Eberhard Frank
+description: Innovation & Design
 url:
 
 # Build settings
@@ -12,8 +12,8 @@ sass:
 
 # Social icons
 show_social_icons: true
-github_username: someGithubUser
-twitter_username: someTwitterUser
+github_username: ebefrank
+twitter_username: ebefrank
 
 # plugins
 plugins: [jekyll-paginate]
