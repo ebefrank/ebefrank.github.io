@@ -1,0 +1,7 @@
+layout: post
+title: @SmartCityexpo - Mobility BlockChain
+summary: Projects in the context to SmartCity
+
+---
+
+@SmartCityexpo - #CitiesMadeOfDreams need to prepare for #Blockchain markets, automated trusted services for all aspects of administration and operation. A jump start in services and aggregated propositions. With small entry level investments and structures. To realize dreams. #MobilityBlockchainPlatform #amplifydesign

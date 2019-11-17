@@ -1,0 +1,7 @@
+layout: post
+title: @SmartCityexpo - Agostic Safety
+summary: Projects in the context to SmartCity
+
+---
+
+@SmartCityexpo - Vehicle mix in the City will grow diverse, automated and connected. OEMs, Vehicle manufacturer and #CitiesMadeOfDreams need to enforce agnostic safety. ShowCars like #ESF by Daimler, #lovey and cmc-info.net inspire & show prospect #amplifydesign
