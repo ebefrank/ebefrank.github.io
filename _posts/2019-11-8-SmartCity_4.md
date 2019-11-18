@@ -1,6 +1,6 @@
 layout: post
 title: @SmartCityexpo - CityOS
-summary: Projects in the context to SmartCity
+summary: Explorations in the context of SmartCity
 
 ---
 
