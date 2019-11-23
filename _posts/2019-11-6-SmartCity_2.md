@@ -1,6 +1,5 @@
 layout: post
 title: @SmartCityexpo - Automated Cars
-summary: Explorations in the context of SmartCity
 
 ---
 

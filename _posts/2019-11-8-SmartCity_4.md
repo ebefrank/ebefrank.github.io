@@ -1,6 +1,5 @@
 layout: post
 title: @SmartCityexpo - CityOS
-summary: Explorations in the context of SmartCity
 
 ---
 

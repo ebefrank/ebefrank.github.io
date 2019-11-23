@@ -1,6 +1,5 @@
 layout: post
 title: @SmartCityexpo - amplify Booth
-summary: Explorations in the context of SmartCity
 
 ---
 

@@ -1,6 +1,5 @@
 layout: post
 title: @SmartCityexpo - Air Transport
-summary: Explorations in the context of SmartCity
 
 ---
 
