@@ -3,8 +3,6 @@ title: Human-Machine-Dialogue
 
 ---
 
-# Human-Machine-Dialogue
-
 Human-Machine-Dialogue (HMD) grows beyond Interfaces(see HMI), more networked and systemic behind the scene, applying intelligence and basically addressing all human senses. Giving the following inspirations dialogues can be designed and developed in favour of man: 
 
 - **Human** -- The Leading Principle is for machine to follow man. It's catching-up the incapability of machine since its invention and really fulfill the promise of support man. It's no longer for man to adapt to machine, so it's also not the instrumented or machine-hybrid human. Rather machine, at least the ones communicating, needs to understand human senses and to reach a cognitive level to interact. 
