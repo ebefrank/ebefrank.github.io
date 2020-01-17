@@ -3,7 +3,7 @@ title: Trends? Questions for 2020
 
 ---
 
-The Trend about trends, a horoscope for Business. Horoscope, the best friend of any sales man. More inspirations and partaking with open questions, for 2020 and beyond
+The Trend about trends. A Horoscope, best friend of any sales man, for Business. More inspirations and partaking with open questions, for 2020 and beyond
 
 1. Quality of Labour - Some aged People like to stay in their jobs, if they enjoy, can still contribute and earn appreciation. Will the extension of work life, to save pension funding, go along with the automation of labour not suitable for men?  
 2. Consumer Substantiation - New products or services are defined by 1. Consumer (All, Now, Here, Free, Me), 2. Innovation (Technology in search of a market, Disruption) and 3. Constraints (Legacy, Regulation, Business Case, Legal). Number One being the most influential, will there be a forum for Consumers to define products and services contrary to formation of demand by Ads? Will Blockchain become a market for automated digital services to be defined, traded and aggregated by Consumers? 
@@ -18,5 +18,5 @@ The Trend about trends, a horoscope for Business. Horoscope, the best friend of 
 11. Partaking - Public initiatives are often blocked by interest groups, even when considered beneficial for the community as a whole. Will partaking, benefits gained from individual contribution, tune initiatives and motivate acceptance? 
 12. Circular Systems - Being it Water or raw materials, the challenge will grow from "how to use" to "how to re-use". Can Circular Systems in different contexts be established and maintained? Can Circular Systems be based on Coal or Nuclear energy? 
 13. Trade Index - In professional sports and horse racing algorithms like ELO and Glicko are used to build indexes as indication for bets (think risk management for investments). Can a Human Collaboration or Trade Index be established, to value insights, evaluations and contributions? 
-14. Quantum Computing - Is Quantum Computing a Solution for a Problem or a Technology in search of a Market?
-15. Animals - Exchange of futures for Water and even wild animals, to kill and to care, seems business practice. Will the re-creation of animals become a business as well and will artifical animals be appreciated or not? Like Zhora says in Blade Runner "Would I work in a place like this, if I could afford a real snake?" 
+14. Quantum Computing - Is Quantum Computing a Solution to a Problem or a Technology in search of a Market?
+15.  Animals - Exchange of futures for Water and even wild animals, to kill and to care, seems business practice. Will the re-creation of animals become a business as well and will artifical animals be appreciated or not? Like Zhora says in Blade Runner "Would I work in a place like this, if I could afford a real snake?" 
