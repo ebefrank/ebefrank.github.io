@@ -3,20 +3,21 @@ title: AI Business Approach
 
 ---
 
-Aspects of an AI Business approach. Intelligence is the benefit for your Client and what you want to sell. Artifical is the challenge, as models are wrong but sometimes useful.  
+Artificial Intelligence - Intelligence is the benefit for your Client and what you want to sell. Artifical is the challenge, as all models are wrong but sometimes useful.  
 
 - **Business Plan / Canvas**
   - Either identified Problem
-    - To Control
-    - Facilitating Repetition
-    - Instrumental to Communication
-    - Acceleration towards automated Business
+    - Instrumentation / Control
+    - Repetition / Automation / Acceleration
+    - Communication / Dialogue
+    - Recognition
   - Or identified Technology
     - In search of a problem
     - In search of a market
     - Technology becomes a constraint in the solution space
   - Cost Case
-    - Quality of Data, defines outcome, cost and risk
+    - Availability of quality Data, defines outcome, cost and risk
+    - Constraints definition
     - Frequent re-train of images, testing and distribution of updates
     - Team and People dependencies
       - Better organize Knowledge in the System and structured Data
@@ -26,20 +27,19 @@ Aspects of an AI Business approach. Intelligence is the benefit for your Client 
   - Price
     - Standard or Project
     - AI implies disruptive flexible invests and payments
-    - No underbidding, it’s about automation and control
+    - It’s about automation and control, less discounts
     - No intelligence without automation, don’t forget appropriate infrastructure
 - **Data**
   - Sourcing of Data
-  - Control of sampling entities and management of diversity
+  - Control of instrumentation, sampling entities and diversity
   - Ownership of Data or Partaking agreements
-  - Understanding of synthetic Data, documented modifications and fusion of sources
-    - Derived and defined Probabilities
+  - Understanding of synthetic Data, modifications applied and state of sources
   - QUALITY Management of Data
-  - Structure of Data like Graph or Semantic
-  - Capability to conduct Updates of Datasets
+  - Graph or semantic structure allow for alternative and re-use
+  - Capability to conduct updates of Datasets
 - **Foundation for Algorithms**
   - Math, Engineering, Stats, Distributions
-    - Own key developments 
+    - Owned key developments 
     - Derive criteria for an industry platform
 
   - Modeling (Including Virtual Worlds for Testing)
@@ -57,7 +57,7 @@ Aspects of an AI Business approach. Intelligence is the benefit for your Client 
   - Really understand the function intended
   - Behavior (AI is typically a black box)
   - Stress cases and fulfillment of QoS
-  - Reproduction of behavior (Afterthought) including Legal Analysis in Virtual World after incidents
+  - Reproduction of behavior including Legal Analysis in Virtual World after incidents
 - **Communications, Dialogue**
   - Machine Man Communication
   - Machine Machine Communication, Signaling, APIs
