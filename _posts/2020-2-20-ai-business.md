@@ -6,7 +6,7 @@ title: AI Business Approach
 Artificial Intelligence - Intelligence is the benefit for your Client and what you want to sell. Artifical is the challenge, as all models are wrong but sometimes useful.  
 
 - **Business Plan / Canvas**
-  - Either identified Problem
+  - Either an identified Problem
     - Instrumentation / Control
     - Repetition / Automation / Acceleration
     - Communication / Dialogue
@@ -14,9 +14,15 @@ Artificial Intelligence - Intelligence is the benefit for your Client and what y
   - Or identified Technology
     - In search of a problem
     - In search of a market
+    - Making sense of a morph dataset
     - Technology becomes a constraint in the solution space
+  - Customer
+    - Value
+    - Control
+    - Personalization
+    - Closer to cognitive dialogue
   - Cost Case
-    - Availability of quality Data, defines outcome, cost and risk
+    - Availability of quality Data, defined outcome, cost and risk
     - Constraints definition
     - Frequent re-train of images, testing and distribution of updates
     - Team and People dependencies
@@ -24,41 +30,43 @@ Artificial Intelligence - Intelligence is the benefit for your Client and what y
       - Churn of People
     - Support(see Testing), SmartServices Potential and Necessity
     - Risk Management
+  - Organization
+    - Implications for the Process Layer
+      - Internal automation
+      - New labour
+    - Responsive and Agile
+    - IT Utilities and strategic Assets
   - Price
     - Standard or Project
-    - AI implies disruptive flexible invests and payments
+    - AI implies disruptive flexible invests and payment scheme
     - It’s about automation and control, less discounts
-    - No intelligence without automation, don’t forget appropriate infrastructure
+    - No intelligence without automation, price for appropriate infrastructure
 - **Data**
-  - Sourcing of Data
+  - Sourcing of quality Data
   - Control of instrumentation, sampling entities and diversity
-  - Ownership of Data or Partaking agreements
+  - Ownership of Data and Partaking agreements
   - Understanding of synthetic Data, modifications applied and state of sources
-  - QUALITY Management of Data
   - Graph or semantic structure allow for alternative and re-use
+  - A morph data with unsupervised - What does it tell you?
   - Capability to conduct updates of Datasets
 - **Foundation for Algorithms**
+  - Next Generation Capabilities
+    - Visual Systems
+    - Operational pipes
+    - Generative Models
   - Math, Engineering, Stats, Distributions
-    - Owned key developments 
+      - Owned key developments 
     - Derive criteria for an industry platform
-
-  - Modeling (Including Virtual Worlds for Testing)
-
-  - Non- or directional Learning
-
-  - Operational Pipes
-
+    - Modeling (Including Virtual Worlds for Testing)
   - Capacities for Problem Solving and Reasoning
-
-  - Architecture (Central, Cloud, Edge, IoT…)
-
+    - Architecture (Central, Cloud, Edge, IoT…)
   - Updates, Release Management, DevOps
 - **Testing**
   - Really understand the function intended
-  - Behavior (AI is typically a black box)
+  - Behavior (AI typically is a black box)
   - Stress cases and fulfillment of QoS
   - Reproduction of behavior including Legal Analysis in Virtual World after incidents
-- **Communications, Dialogue**
-  - Machine Man Communication
-  - Machine Machine Communication, Signaling, APIs
-  - Machine Machine Dialogue, understandable for and involving Man
+- **Dialogue**
+  - Machine Man 
+  - Machine Machine, Signaling, APIs
+  - Machine Machine Dialogue including Man, understanding yields trust
