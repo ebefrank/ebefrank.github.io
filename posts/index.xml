@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jan 2026 13:26:21 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 14:00:00 +0100</lastBuildDate>
     <atom:link href="https://ebefrank.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein neuer Post</title>
+      <link>https://ebefrank.github.io/posts/mein-dritter-post/</link>
+      <pubDate>Sat, 10 Jan 2026 14:00:00 +0100</pubDate>
+      <guid>https://ebefrank.github.io/posts/mein-dritter-post/</guid>
+      <description>&lt;p&gt;Hier beginnt mein eigentlicher Text&amp;hellip;&#xA;Dies ist eine 3. Post im Blog von Eberhard Frank&#xA;&lt;img src=&#34;index/Dragonfly_colours.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mein Zweiter Beitrag</title>
       <link>https://ebefrank.github.io/posts/mein-zweiter-beitrag/</link>
