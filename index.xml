@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jan 2026 10:46:04 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 13:26:21 +0100</lastBuildDate>
     <atom:link href="https://ebefrank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein Zweiter Beitrag</title>
+      <link>https://ebefrank.github.io/posts/mein-zweiter-beitrag/</link>
+      <pubDate>Sat, 10 Jan 2026 13:26:21 +0100</pubDate>
+      <guid>https://ebefrank.github.io/posts/mein-zweiter-beitrag/</guid>
+      <description>&lt;p&gt;Ein weiterer Test für den Blog von Eberhard Frank&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mein Neuer Artikel</title>
       <link>https://ebefrank.github.io/posts/mein-neuer-artikel/</link>
