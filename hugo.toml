@@ -1,4 +1,5 @@
 baseURL = 'https://ebefrank.github.io/'
+theme = "PaperMod"
 languageCode = 'en-us'
 
 [[languages.en.menu.main]]
