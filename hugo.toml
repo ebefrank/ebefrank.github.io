@@ -1,18 +1,78 @@
 baseURL = 'https://ebefrank.github.io/'
 theme = "PaperMod"
-languageCode = 'en-us'
+defaultContentLanguage = 'de' # Sets German as your primary view
 
-[[languages.en.menu.main]]
-	name = "German"
-	url = "/de/"
-	weight = 10
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
-[[languages.de.menu.main]]
-	name = "English"
-	url = "/en/"
-	weight = 10
+[languages.de.menu]
+    [[languages.de.menu.main]]
+        name = "Suche"
+        url = "search"
+        weight = 5
 
-title = 'Sichten und Schlüsse'
+[languages.en.menu]
+    [[languages.en.menu.main]]
+        name = "Search"
+        url = "search"
+        weight = 5
 
-[params] 
-	author = "Eberhard Frank"
+[languages]
+    [languages.de]
+        languageCode = 'de-de'
+        contentDir = 'content/de'
+        languageName = 'Deutsch'
+        weight = 1
+        title = 'Sichten und Rückschlüsse'
+
+[languages.de.params]
+    [languages.de.params.profileMode]
+        enabled = true
+        title = "Eberhard Frank"
+        subtitle = "Sichten und Schlüsse: Ein zweisprachiger Blog über Technologie und Gedanken."
+        # imageUrl = "img/avatar.png" # Optional: put a photo in /static/img/avatar.png
+        # imageTitle = "Eberhard"
+        [[languages.de.params.profileMode.buttons]]
+            name = "Beiträge"
+            url = "posts"
+        [[languages.de.params.profileMode.buttons]]
+            name = "Über mich"
+            url = "about"
+
+    [languages.en]
+        languageCode = 'en-us'
+        contentDir = 'content/en'
+        languageName = 'English'
+        weight = 2
+        title = 'Insights and Conclusions'
+
+[languages.en.params]
+    [languages.en.params.profileMode]
+        enabled = true
+        title = "Eberhard Frank"
+        subtitle = "Views and Conclusions: A bilingual blog about technology and insights."
+        # imageUrl = "img/avatar.png"
+        [[languages.en.params.profileMode.buttons]]
+            name = "Posts"
+            url = "posts"
+        [[languages.en.params.profileMode.buttons]]
+            name = "About"
+            url = "about"
+
+[params]
+    	author = "Eberhard Frank"
+    	description = "Sichten und Schlüsse von Eberhard Frank"
+	ShowToc = true
+	TocOpen = false
+	showtoc = true
+
+	[params.toc]
+		sections = ["h2", "h3"] # Only show main headings to keep neat
+	
+
+	[[params.socialIcons]]
+    		name = "github"
+    		url = "https://github.com/ebefrank"
+	[[params.socialIcons]]
+    	name = "linkedin"
+    	url = "https://linkedin.com/in/eberhardfrank"

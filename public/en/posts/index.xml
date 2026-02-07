@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Insights and Conclusions</title>
+    <link>http://localhost:1313/en/posts/</link>
+    <description>Recent content in Posts on Insights and Conclusions</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/en/posts/welcome/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/welcome/</guid>
+      <description>&lt;p&gt;Welcome to research, insights and conclusions as part of my book projects&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
