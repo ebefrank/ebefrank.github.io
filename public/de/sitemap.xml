@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/allgemein/</loc>
+    <loc>https://ebefrank.github.io/tags/allgemein/</loc>
     <lastmod>2026-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://ebefrank.github.io/tags/blog/</loc>
     <lastmod>2026-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://ebefrank.github.io/posts/</loc>
     <lastmod>2026-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ebefrank.github.io/</loc>
     <lastmod>2026-02-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                href="https://ebefrank.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/tags/"
+                href="https://ebefrank.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/tempo/</loc>
+    <loc>https://ebefrank.github.io/tags/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ebefrank.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://ebefrank.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://ebefrank.github.io/posts/tempo/</loc>
     <lastmod>2026-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/willkommen/</loc>
+    <loc>https://ebefrank.github.io/posts/willkommen/</loc>
     <lastmod>2026-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ebefrank.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/categories/"
+                href="https://ebefrank.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/categories/"
+                href="https://ebefrank.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://ebefrank.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/search/"
+                href="https://ebefrank.github.io/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/search/"
+                href="https://ebefrank.github.io/search/"
                 />
   </url>
 </urlset>

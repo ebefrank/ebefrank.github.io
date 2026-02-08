@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Insights and Conclusions</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://ebefrank.github.io/en/</link>
     <description>Recent content on Insights and Conclusions</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ebefrank.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>http://localhost:1313/en/posts/welcome/</link>
+      <link>https://ebefrank.github.io/en/posts/welcome/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/welcome/</guid>
+      <guid>https://ebefrank.github.io/en/posts/welcome/</guid>
       <description>&lt;p&gt;Welcome to research, insights and conclusions as part of my book projects&lt;/p&gt;</description>
     </item>
   </channel>

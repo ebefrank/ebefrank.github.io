@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sichten und Rückschlüsse</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ebefrank.github.io/</link>
     <description>Recent content on Sichten und Rückschlüsse</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ebefrank.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tempo</title>
-      <link>http://localhost:1313/posts/tempo/</link>
+      <link>https://ebefrank.github.io/posts/tempo/</link>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tempo/</guid>
+      <guid>https://ebefrank.github.io/posts/tempo/</guid>
       <description>&lt;h2 id=&#34;tempo&#34;&gt;Tempo&lt;/h2&gt;
 &lt;p&gt;#blog/publish
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/tempo/Zug.png&#34;&gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://ebefrank.github.io/posts/tempo/Zug.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Eines der Gebete, neben Retro, dreht sich um Tempo. Damit ist keine Beschleunigung von Änderungen erhofft, sie könnten einen selbst betreffen, sondern meist passiver Lustgewinn. Tempozüge, freie linke Spur im Individualverkehr und gegebenenfalls wieder die Auszeichnung mit einem Überschallflug. Deutschland will gewinnen, auch wenn der Wettbewerb mit Nationen wie Japan und Frankreich wenig Sinn macht:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Im Unterschied zu Frankreich und Japan, existieren keine grossen freiliegenden Landstriche zwischen Reisezielen. Was die Planung und Umsetzung erschwert. Und Berlin ist nunmal  kein geographisches und wirtschaftliches Zentrum wie Paris.&lt;/li&gt;
@@ -29,9 +29,9 @@
     </item>
     <item>
       <title>Willkommen</title>
-      <link>http://localhost:1313/posts/willkommen/</link>
+      <link>https://ebefrank.github.io/posts/willkommen/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/willkommen/</guid>
+      <guid>https://ebefrank.github.io/posts/willkommen/</guid>
       <description>&lt;p&gt;Willkommen zu Recherche, Sichten und Rückschlüsse zu meinen Buchprojekten&lt;/p&gt;</description>
     </item>
   </channel>

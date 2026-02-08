@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://ebefrank.github.io/en/</loc>
     <lastmod>2026-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/"
+                href="https://ebefrank.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/"
+                href="https://ebefrank.github.io/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/welcome/</loc>
+    <loc>https://ebefrank.github.io/en/posts/welcome/</loc>
     <lastmod>2026-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://ebefrank.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/categories/"
+                href="https://ebefrank.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/categories/"
+                href="https://ebefrank.github.io/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/search/</loc>
+    <loc>https://ebefrank.github.io/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/search/"
+                href="https://ebefrank.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/search/"
+                href="https://ebefrank.github.io/en/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://ebefrank.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/tags/"
+                href="https://ebefrank.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                href="https://ebefrank.github.io/en/tags/"
                 />
   </url>
 </urlset>
