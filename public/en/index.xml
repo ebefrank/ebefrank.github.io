@@ -6,6 +6,14 @@
     <description>Recent content on Insights and Conclusions</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/en/posts/welcome/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/welcome/</guid>
+      <description>&lt;p&gt;Welcome to research, insights and conclusions as part of my book projects&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -6,16 +6,17 @@
     <description>Recent content on Sichten und Rückschlüsse</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>„Tempo“</title>
-      <link>http://localhost:1313/posts/</link>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/</guid>
-      <description>&lt;h1 id=&#34;tempo&#34;&gt;Tempo&lt;/h1&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/Zug.png&#34;&gt;
-Eines der Gebete, neben Retro, dreht sich um Tempo. Damit ist keine Beschleunigung von Änderungen erhofft, sie könnten einen selbst betreffen, sondern meist passiver Lustgewinn. Tempozüge, freie linke Spur im Individualverkehr und gegebenenfalls wieder die Auszeichnung mit einem Überschallflug. Deutschland will gewinnen, auch wenn der Wettbewerb mit Nationen wie Japan und Frankreich wenig Sinn macht:&lt;/p&gt;
+      <title>Tempo</title>
+      <link>http://localhost:1313/posts/tempo/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tempo/</guid>
+      <description>&lt;h2 id=&#34;tempo&#34;&gt;Tempo&lt;/h2&gt;
+&lt;p&gt;#blog/publish
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/tempo/Zug.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Eines der Gebete, neben Retro, dreht sich um Tempo. Damit ist keine Beschleunigung von Änderungen erhofft, sie könnten einen selbst betreffen, sondern meist passiver Lustgewinn. Tempozüge, freie linke Spur im Individualverkehr und gegebenenfalls wieder die Auszeichnung mit einem Überschallflug. Deutschland will gewinnen, auch wenn der Wettbewerb mit Nationen wie Japan und Frankreich wenig Sinn macht:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Im Unterschied zu Frankreich und Japan, existieren keine grossen freiliegenden Landstriche zwischen Reisezielen. Was die Planung und Umsetzung erschwert. Und Berlin ist nunmal  kein geographisches und wirtschaftliches Zentrum wie Paris.&lt;/li&gt;
 &lt;li&gt;Infrastruktur für Schnelligkeit ist teuer und die Pflege eine Altlast für Nachkommen.&lt;/li&gt;
@@ -25,6 +26,13 @@ Eines der Gebete, neben Retro, dreht sich um Tempo. Damit ist keine Beschleunigu
 &lt;li&gt;Logistik benötigt keine Hochgeschwindigkeit, sondern Verfügbarkeit und schnelle Überführungen. Dynamische Wegführung bringt mehr als Tempo. Was auch für die Militärlogistik gilt.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Was bedeutet dies nun für Zukunftsinvestitionen:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Willkommen</title>
+      <link>http://localhost:1313/posts/willkommen/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/willkommen/</guid>
+      <description>&lt;p&gt;Willkommen zu Recherche, Sichten und Rückschlüsse zu meinen Buchprojekten&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
