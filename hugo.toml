@@ -25,6 +25,10 @@ defaultContentLanguage = 'de' # Sets German as your primary view
         weight = 1
         title = 'Sichten und Rückschlüsse'
 
+    [[languages.de.menu.main]]
+	name = "Über mich"
+	url = "about"
+
 [languages.de.params]
     [languages.de.params.profileMode]
         enabled = true
@@ -45,6 +49,10 @@ defaultContentLanguage = 'de' # Sets German as your primary view
         languageName = 'English'
         weight = 2
         title = 'Insights and Conclusions'
+
+    [[languages.en.menu.main]]
+	name = "About me"
+	url = "about"
 
 [languages.en.params]
     [languages.en.params.profileMode]
@@ -73,6 +81,12 @@ defaultContentLanguage = 'de' # Sets German as your primary view
 	[[params.socialIcons]]
     		name = "github"
     		url = "https://github.com/ebefrank"
+
 	[[params.socialIcons]]
     	name = "linkedin"
     	url = "https://linkedin.com/in/eberhardfrank"
+
+	[[params.socialIcons]]
+        name = "mastodon"
+        url = "https://mastodon.social/@ebefrank"
+        rel = "me"

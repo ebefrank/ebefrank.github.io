@@ -2,20 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sichten und Rückschlüsse</title>
-    <link>https://ebefrank.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Sichten und Rückschlüsse</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ebefrank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wissen war Macht</title>
+      <link>http://localhost:1313/posts/wissen_war_macht/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wissen_war_macht/</guid>
+      <description>&lt;h2 id=&#34;wissen-war-macht&#34;&gt;Wissen war Macht&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/wissen_war_macht/Wissen_war_Macht.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Heideggers &lt;em&gt;Gestell&lt;/em&gt;, Arendts &lt;em&gt;Animal Laborans&lt;/em&gt;, die Warnung, dass die eigentliche Bedrohung nicht darin liegt, dass Maschinen wie Menschen denken, sondern dass Menschen beginnen, wie Maschinen zu denken — all das sind Chiffren für dasselbe Phänomen: die KI verändert nicht nur, was Menschen tun, sondern wer sie sind.
+Eine der greifbarsten Verschiebungen betrifft das Wissen. Was einmal Kapital war — erlernt, erarbeitet, exklusiv — ist heute Commodity. Agenten vermitteln jeden dokumentierten Aspekt der Welt, direkt und kontextgenau, und befähigen den Anwender zu Aufgaben, die bisher Spezialisten vorbehalten waren. Die Hierarchie, die auf Wissen gründete, erodiert. Wissen differenziert nicht mehr.
+Was bleibt dem Menschen als Grundlage von Führung und Handlung? Sicher nicht der Wettbewerb mit der Maschine auf ihrer eigenen Ebene. Der Maschinenraum ist kein menschlicher Raum. Operative Exzellenz der Maschine kann keine Zielsetzung für menschliches Handeln sein.
+Was sich ableiten lässt, kommt aus der Herkunft des Menschen: Intentionalität, Urteilsvermögen, ethische Grundlagen, ein Glaube, der keine Institutionen braucht, Philosophie und Mystik als Orientierung jenseits des Messbaren. Der Mensch führt nicht, indem er wie eine Maschine arbeitet, denkt oder optimiert — sondern indem er Ziele setzt, die keine Maschine haben kann.
+Maschinen wollen funktionieren. Menschen wollen überleben, lieben, bedeuten. Das ist der Unterschied — und er ist fundamental.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Über mich</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Publiziere meine Recherche für Buchprojekte und was mein Interesse weckt. Bin nicht mehr operativ im Business, investiere und haben Standpunkte. Bin verheiratet und mit 4 Kindern, bald 7 Enkel. Wünsche mir die Welt Lösungsoorientiert, scheint allerdings akuell eher im Rollback oder Retro.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tempo</title>
-      <link>https://ebefrank.github.io/posts/tempo/</link>
+      <link>http://localhost:1313/posts/tempo/</link>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://ebefrank.github.io/posts/tempo/</guid>
-      <description>&lt;h2 id=&#34;tempo&#34;&gt;Tempo&lt;/h2&gt;
-&lt;p&gt;#blog/publish
-&lt;img loading=&#34;lazy&#34; src=&#34;https://ebefrank.github.io/posts/tempo/Zug.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/tempo/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/tempo/Zug.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Eines der Gebete, neben Retro, dreht sich um Tempo. Damit ist keine Beschleunigung von Änderungen erhofft, sie könnten einen selbst betreffen, sondern meist passiver Lustgewinn. Tempozüge, freie linke Spur im Individualverkehr und gegebenenfalls wieder die Auszeichnung mit einem Überschallflug. Deutschland will gewinnen, auch wenn der Wettbewerb mit Nationen wie Japan und Frankreich wenig Sinn macht:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Im Unterschied zu Frankreich und Japan, existieren keine grossen freiliegenden Landstriche zwischen Reisezielen. Was die Planung und Umsetzung erschwert. Und Berlin ist nunmal  kein geographisches und wirtschaftliches Zentrum wie Paris.&lt;/li&gt;
@@ -29,9 +47,9 @@
     </item>
     <item>
       <title>Willkommen</title>
-      <link>https://ebefrank.github.io/posts/willkommen/</link>
+      <link>http://localhost:1313/posts/willkommen/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://ebefrank.github.io/posts/willkommen/</guid>
+      <guid>http://localhost:1313/posts/willkommen/</guid>
       <description>&lt;p&gt;Willkommen zu Recherche, Sichten und Rückschlüsse zu meinen Buchprojekten&lt;/p&gt;</description>
     </item>
   </channel>

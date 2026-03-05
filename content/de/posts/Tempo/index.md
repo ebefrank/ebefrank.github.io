@@ -5,8 +5,6 @@ draft: false
 tags: ["Blog", "Allgemein"]
 ---
 
-## Tempo
-#blog/publish
 ![](Zug.png)
 
 Eines der Gebete, neben Retro, dreht sich um Tempo. Damit ist keine Beschleunigung von Änderungen erhofft, sie könnten einen selbst betreffen, sondern meist passiver Lustgewinn. Tempozüge, freie linke Spur im Individualverkehr und gegebenenfalls wieder die Auszeichnung mit einem Überschallflug. Deutschland will gewinnen, auch wenn der Wettbewerb mit Nationen wie Japan und Frankreich wenig Sinn macht: 
