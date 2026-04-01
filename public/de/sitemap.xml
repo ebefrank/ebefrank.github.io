@@ -3,16 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/allgemein/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/kapital-versus-f%C3%B6derale-systeme/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -24,11 +27,8 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/souver%C3%A4nit%C3%A4t/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -39,6 +39,9 @@
                 hreflang="de-de"
                 href="http://localhost:1313/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/posts/souver%C3%A4nit%C3%A4t/</loc>
+    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/mobilit%C3%A4t_ungebremst/</loc>
     <lastmod>2026-03-06T00:00:00+00:00</lastmod>
